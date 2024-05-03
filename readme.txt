@@ -5,3 +5,8 @@ Usando o tutorial:
 git commit -a 
 para não precisar executar o comando git add antes do commit
 
+
+
+
+alterando o arquivo utilizando a branch 'master', depois da linha do commit na branch 'experimental'
+
