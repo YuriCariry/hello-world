@@ -8,3 +8,5 @@ para não precisar executar o comando git add antes do commit
 alterando o arquivo utilizando a branch 'master', depois da linha do commit na branch 'experimental'
 =======
 alterando o arquivo através da nova branch 'experimental'
+
+usando o vscode
