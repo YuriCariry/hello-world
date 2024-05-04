@@ -11,3 +11,6 @@ alterando o arquivo através da nova branch 'experimental'
 
 usando o vscode
 repositório está em: https://github.com/YuriCariry/hello-world
+
+2.1 Fundamentos de Git - Obtendo um Repositório Git
+https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Obtendo-um-Reposit%C3%B3rio-Git
